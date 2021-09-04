@@ -1289,6 +1289,7 @@ dependencies = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "r2d2"
 version = "0.8.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1310,6 +1311,8 @@ dependencies = [
 ]
 
 [[package]]
+=======
+>>>>>>> b4f0e015f40a3eb394daa7b84821903560b10d47
 name = "radium"
 version = "0.5.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1743,9 +1746,12 @@ dependencies = [
  "actix-rt",
  "actix-web",
  "askama",
+<<<<<<< HEAD
  "r2d2",
  "r2d2_sqlite",
  "rusqlite",
+=======
+>>>>>>> b4f0e015f40a3eb394daa7b84821903560b10d47
  "thiserror",
 ]
 
